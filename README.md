@@ -1,6 +1,6 @@
 # Python-API-Assignment---What-s-the-Weather-Like
 What's the Weather Like? - Python API's Assignment
-# Unit 6 | Assignment - What's the Weather Like?
+# Assignment - What's the Weather Like?
 
 ## Background
 
